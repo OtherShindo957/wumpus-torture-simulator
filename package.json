@@ -1,0 +1,8 @@
+{
+  "name": "wumpus-ios-sideload",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": { "build:ios-web": "node scripts/build-ios-web.mjs" },
+  "dependencies": { "three": "0.169.0", "@dimforge/rapier3d-compat": "0.14.0" },
+  "devDependencies": { "esbuild": "0.25.10" }
+}
